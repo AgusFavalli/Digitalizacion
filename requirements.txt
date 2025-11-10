@@ -1,0 +1,27 @@
+# Core Django
+Django==5.2.8
+djangorestframework==3.15.2
+
+# Base de datos PostgreSQL
+psycopg2-binary==2.9.9
+
+# CORS para comunicación con frontend
+django-cors-headers==4.3.1
+
+# Variables de entorno
+python-decouple==3.8
+
+# Manejo de archivos e imágenes
+Pillow==10.3.0
+
+# Filtros avanzados en la API
+django-filter==24.2
+
+# Documentación automática de la API
+drf-spectacular==0.27.2
+
+# Utilidades
+python-dateutil==2.9.0
+pytz==2024.1
+
+
