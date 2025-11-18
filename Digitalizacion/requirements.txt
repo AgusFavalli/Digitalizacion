@@ -1,0 +1,32 @@
+# Core Django
+Django==5.2.8
+djangorestframework==3.15.2
+
+# Base de datos PostgreSQL
+psycopg2-binary==2.9.9
+
+# CORS para comunicación con frontend
+django-cors-headers==4.3.1
+
+# Variables de entorno
+python-decouple==3.8
+
+# Manejo de archivos e imágenes
+Pillow==10.3.0
+
+# Filtros avanzados en la API
+django-filter==24.2
+
+# Documentación automática de la API
+drf-spectacular==0.27.2
+
+# Utilidades
+python-dateutil==2.9.0 # Manejo de fechas
+pytz==2024.1  # Zonas horarias
+
+# Desarrollo y testing
+black==24.4.2  # Formatedor de codigo
+flake8==7.0.0  # Linter (detecta errores de codigo)
+ipython==8.24.0 # Shell mejorada para desarrollo
+
+
